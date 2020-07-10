@@ -37,7 +37,7 @@ A responsive, clean and simple [Hexo](http://hexo.io) theme for a personal websi
 1. In the `root` directory:
 
     ```git
-    $ git clone https://github.com/probberechts/hexo-theme-cactus.git themes/cactus
+    $ git clone https://github.com/bogerv/hexo-theme-cactus.git themes/cactus
     ```
 
 2. Change the `theme` property in the `config.yml` file.
@@ -117,7 +117,6 @@ nav:
   LINK_NAME: URL
 ```
 
-
 ### Blog posts list on home page
 
 You have two options for the list of blog posts on the home page:
@@ -136,7 +135,6 @@ You have two options for the list of blog posts on the home page:
     posts_overview:
       show_all_posts: true
     ```
-
 
 ### Projects list
 
